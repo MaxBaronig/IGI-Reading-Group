@@ -5,7 +5,7 @@ The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugra
 
 In the SS 2022, the journal club will take place every Tuesday at 10:00 online (or, if possible, in the IGI seminar room).
 
-If you're from outside IGI and would like to attend a particular session, contact `ceca [at] igi.tugraz.at`.
+If you're from outside IGI and would like to attend a particular session, contact `ceca [at] igi.tugraz.at`.  
 
 ## Current presentation cycle
 
